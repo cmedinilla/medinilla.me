@@ -1,0 +1,3 @@
+![Build](https://github.com/cmedinilla/medinilla.me/actions/workflows/build.yml/badge.svg)
+![Deploy](https://github.com/cmedinilla/medinilla.me/actions/workflows/deploy.yml/badge.svg)
+[![pages-build-deployment](https://github.com/cmedinilla/medinilla.me/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/cmedinilla/medinilla.me/actions/workflows/pages/pages-build-deployment)
