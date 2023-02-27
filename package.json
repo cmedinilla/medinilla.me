@@ -1,6 +1,7 @@
 {
   "name": "medinilla.me",
   "private": true,
+  "homepage": "https://cmedinilla.github.io/medinilla.me/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
