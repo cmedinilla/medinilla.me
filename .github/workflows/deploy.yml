@@ -37,6 +37,10 @@ jobs:
     runs-on: ubuntu-latest
     if: github.ref == 'refs/heads/main'
 
+    environment:
+        name: medinilla.dev
+        url: www.medinilla.dev
+
     steps:
       - name: Download artifact
         uses: actions/download-artifact@v2
