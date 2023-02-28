@@ -18,7 +18,7 @@ function App() {
           <img src="/github.png" className="logo Git Hub" alt="React logo" />
         </a>
       </div>
-      <h1>Vite + React + GH Actions + GH Pages</h1>
+      <h1>Vite + React + GH Actions + GH Pages + Apex</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
